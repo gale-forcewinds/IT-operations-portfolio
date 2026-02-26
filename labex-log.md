@@ -46,3 +46,31 @@ Real Use Case:
 - Use the print() function to display output
 - Interact with users using the input() function
 - Properly exit the Python interpreter
+
+
+
+
+## 2026-26-02
+Lab: Python Data Types and Operators
+
+Commands:
+books = 5
+print(f"I have {books} books.")
+type(books)
+boolean = is_learning = True
+is_finished = False
+print(f"Are we learning Python? {is_learning}")
+type(is_learning)
+
+Key Takeaway:
+Learned about the fundamental building blocks of Python:
+
+Difficulty:
+Lots of new information to organise and make sense of and actively recall when needed.
+
+Real Use Case:
+- Numeric Types: You worked with integers (int) for whole numbers and floats (float) for decimal numbers.
+- Strings (str): You learned how to create and manipulate text.
+- Booleans (bool): You explored True and False values and used them for comparisons.
+- Operators: You used arithmetic (*), comparison (==, <), and boolean (and, or) operators.
+- Type Conversion: You practiced converting between different data types, like turning a string into a number.
