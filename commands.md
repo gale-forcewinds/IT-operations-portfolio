@@ -14,5 +14,5 @@ du -sh — Directory size
 
 ## Users
 
-whoami — Current user  
+whoami — Current user 
 id — User and group IDs  
